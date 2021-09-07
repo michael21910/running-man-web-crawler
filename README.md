@@ -1,7 +1,5 @@
 # Running man Web Crawler
 This program crawls the nearest date of the Running man episode URL according to the user input.  
-  
-## Introduction :thought_balloon:
 Running man is a variety show of South Korea's SBS TV station, which started broadcasting on July 11, 2010.  
 ![](https://static.wikia.nocookie.net/runningman/images/d/d6/RMofficial_profile.jpg/revision/latest?cb=20210720100640&path-prefix=zh)  
   
