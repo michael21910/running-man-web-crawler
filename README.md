@@ -28,4 +28,5 @@ A nice sweet URL leads you to some episode of Running Man.
 * Demo 2  
 ![RM2](https://user-images.githubusercontent.com/78197510/132327449-55353faa-da1e-4bcd-b3fa-59024634a205.PNG)  
   
-Michael Hsueh 09/07/2021
+## License
+[MIT](LICENSE) © Tsuen Hsueh  
