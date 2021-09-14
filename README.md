@@ -9,7 +9,6 @@ However, the pressure from homework, exams, high school and university make me s
 At the end of summer vacation, I decided to write a program to web crawl the episode of Running man.  
   
 ## Things you need to do :open_book:
-* The input format must be correct (YYYYmmdd). For example: 20200809
 * Install the library "requests"
 ```
 pip install requests
@@ -18,6 +17,12 @@ pip install requests
 ```
 pip install BeautifulSoup
 ```
+* Clone this repository
+```
+git clone https://github.com/michael21910/running-man-web-crawler.git
+```
+* Execute the program file "index.py"
+* The input format must be correct (YYYYmmdd). For example: 20200809
   
 ## What will you get :icecream:
 A nice sweet URL leads you to some episode of Running Man.  
